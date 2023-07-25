@@ -1,0 +1,3 @@
+data,tags,spe_tags,labels
+D:/Weather conditions driving classification data (All)/images/Rainy\frame1.jpg,['man'],weather,0
+D:/Weather conditions driving classification data (All)/images/Rainy\frame10.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,1

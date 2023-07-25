@@ -1,0 +1,1002 @@
+class,data,tag,spe_tag,caption,label,pred
+Rainy,Rainy\frame1.jpg,['man'],weather,a large jetliner taking off from a runway,0,-1
+Rainy,Rainy\frame10.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame100.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1000.jpg,['rain | windshield | highway | road | car | drive | red'],weather,a view of a car windshield on a foggy day,0,0
+Rainy,Rainy\frame10000.jpg,['fog | highway | road | picture | street | car | drive | foggy | white'],weather,a view of a foggy car's dashboard during the day,0,-1
+Rainy,Rainy\frame1001.jpg,['rain | windshield | highway | mountain | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1002.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1003.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1004.jpg,['highway | hand | vehicle | road | picture | street | car | person | drive | dark'],weather,a car's dashboard is shown in the dark,0,-1
+Rainy,Rainy\frame1005.jpg,['rain | highway | road | car | drive'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1006.jpg,['rain | highway | van | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1007.jpg,['rain | highway | van | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1008.jpg,['rain | highway | van | vehicle | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1009.jpg,['rain | highway | van | vehicle | road | car | drive | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame101.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1010.jpg,['rain | highway | van | mountain | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1011.jpg,['rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1012.jpg,['rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1013.jpg,['rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1014.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1015.jpg,['rain | highway | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1016.jpg,['traffic light | fog | rain | highway | road | car | drive | green'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1017.jpg,['traffic light | fog | rain | highway | road | car | drive | green | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1018.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1019.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame102.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1020.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,the view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1021.jpg,['rain | traffic | highway | freeway | mountain | road | car | truck | drive | wet'],weather,the view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1022.jpg,['rain | traffic | highway | freeway | mountain | road | car | truck | drive | wet'],weather,the view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1023.jpg,['rain | traffic | highway | freeway | mountain | road | car | drive'],weather,the view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1024.jpg,['rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1025.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1026.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1027.jpg,['rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1028.jpg,['rain | highway | mountain | road | car | drive | white | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1029.jpg,['rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame103.jpg,['rain | traffic | highway | vehicle | bus | road | street | car | drive | wet'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1030.jpg,['rain | highway | mountain | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1031.jpg,['rain | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1032.jpg,['rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1033.jpg,['rain | highway | freeway | mountain | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1034.jpg,['fog | rain | windshield | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's dashboard during a foggy day,0,0
+Rainy,Rainy\frame1035.jpg,['rain | windshield | highway | mountain | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1036.jpg,['rain | traffic | highway | freeway | vehicle | road | car | lane | truck | drive'],weather,a rainy day on the interstate,0,0
+Rainy,Rainy\frame1037.jpg,['rain | highway | freeway | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1038.jpg,['rain | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1039.jpg,['rain | highway | freeway | mountain | road | car | truck | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame104.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1040.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1041.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1042.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1043.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1044.jpg,['rain | highway | vehicle | mountain | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1045.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1046.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,the view of a rainy day driving on a country road,0,0
+Rainy,Rainy\frame1047.jpg,['rain | windshield | highway | vehicle | road | street | car | drive | wet'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1048.jpg,['rain | traffic | highway | freeway | vehicle | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1049.jpg,['rain | traffic | highway | freeway | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame105.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1050.jpg,['rain | highway | freeway | vehicle | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1051.jpg,['rain | highway | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1052.jpg,['fog | rain | windshield | highway | vehicle | road | car | drive | travel'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1053.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1054.jpg,['rain | highway | vehicle | road | car | drive | green'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1055.jpg,['fog | rain | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1056.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1057.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1058.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1059.jpg,['fog | rain | highway | vehicle | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame106.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1060.jpg,['rain | highway | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1061.jpg,['rain | highway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1062.jpg,['rain | highway | mountain | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1063.jpg,['rain | traffic | highway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1064.jpg,['fog | rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1065.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1066.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1067.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1068.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1069.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame107.jpg,['van | bus | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1070.jpg,['rain | highway | mountain | road | car | snow | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1071.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1072.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1073.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1074.jpg,['rain | windshield | highway | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1075.jpg,['fog | rain | highway | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1076.jpg,['fog | rain | highway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1077.jpg,['rain | highway | road | car | drive | green | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1078.jpg,['traffic light | fog | rain | highway | light | road | car | drive | green | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1079.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame108.jpg,['night | van | vehicle | picture | car | tunnel | truck | drive'],weather,a view of the inside of a car tunnel,0,-1
+Rainy,Rainy\frame1080.jpg,['rain | traffic | highway | freeway | vehicle | road | car | truck | drive'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1081.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1082.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1083.jpg,['fog | rain | highway | bus | road | car | drive | travel'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1084.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1085.jpg,['fog | rain | highway | road | car | snow | drive'],weather,a view of a foggy driving on a snowy day,0,0
+Rainy,Rainy\frame1086.jpg,['view mirror | rain | windshield | highway | car window | vehicle | road | forest | picture | car | window | tree | drive'],weather,a view of a car windshield through a car windshield,0,0
+Rainy,Rainy\frame1087.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1088.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1089.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame109.jpg,['van | vehicle | bus | car | tunnel | truck | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1090.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1091.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1092.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1093.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1094.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1095.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1096.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1097.jpg,['fog | rain | highway | mountain | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1098.jpg,['fog | rain | highway | mountain | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1099.jpg,['fog | rain | highway | mountain | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame11.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame110.jpg,['car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1100.jpg,['fog | rain | highway | mountain | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1101.jpg,['fog | rain | highway | mountain | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1102.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1103.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1104.jpg,['fog | rain | highway | mountain | road | car | drive | green'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1105.jpg,['rain | highway | van | mountain | road | car | drive | white'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1106.jpg,['rain | highway | van | vehicle | road | car | drive | white'],weather,a white minivan driving on a rainy day,0,0
+Rainy,Rainy\frame1107.jpg,['rain | highway | van | mountain | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1108.jpg,['fog | rain | highway | van | mountain | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1109.jpg,['rain | highway | van | mountain | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame111.jpg,['car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1110.jpg,['fog | rain | highway | mountain | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1111.jpg,['fog | rain | highway | mountain | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1112.jpg,['fog | rain | highway | van | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1113.jpg,['night | traffic | highway | light | road | street | car | drive | dark'],weather,a night time view of driving in the dark,0,-1
+Rainy,Rainy\frame1114.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1115.jpg,['rain | traffic | highway | freeway | vehicle | road | car | truck | drive'],weather,a view of a two lane highway during a rainy day,0,0
+Rainy,Rainy\frame1116.jpg,['fog | rain | highway | van | mountain | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1117.jpg,['fog | rain | highway | van | vehicle | mountain | road | car | drive | white | wet'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1118.jpg,['fog | rain | highway | freeway | van | vehicle | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1119.jpg,['fog | rain | highway | van | vehicle | mountain | road | car | truck | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame112.jpg,['car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1120.jpg,['fog | rain | highway | van | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1121.jpg,['fog | rain | highway | van | mountain | road | car | truck | drive | travel | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1122.jpg,['fog | rain | highway | van | vehicle | mountain | road | car | truck | drive | travel | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1123.jpg,['fog | rain | highway | freeway | van | vehicle | mountain | road | car | truck | drive | travel'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1124.jpg,['fog | rain | highway | bus | mountain | road | car | truck | drive | travel'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1125.jpg,['fog | rain | highway | mountain | road | car | truck | drive | travel'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1126.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | travel'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1127.jpg,['fog | rain | highway | freeway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1128.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1129.jpg,['fog | rain | windshield | highway | freeway | road | car | snow | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame113.jpg,['vehicle | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1130.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1131.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1132.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1133.jpg,['rain | windshield | highway | mountain | sign | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1134.jpg,['rain | windshield | highway | sign | road | car | drive | green | wet'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1135.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1136.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1137.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1138.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1139.jpg,['fog | rain | windshield | highway | road | car | snow | drive'],weather,a view of a foggy driving on a snowy day,0,0
+Rainy,Rainy\frame114.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a rainy day driving on a country road,0,0
+Rainy,Rainy\frame1140.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1141.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1142.jpg,['fog | rain | highway | van | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1143.jpg,['fog | rain | highway | van | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1144.jpg,['rain | highway | van | bus | road | car | drive'],weather,a passenger bus that is driving on a rainy day,0,0
+Rainy,Rainy\frame1145.jpg,['rain | highway | van | bus | road | car | drive'],weather,a passenger bus that is driving on a rainy day,0,0
+Rainy,Rainy\frame1146.jpg,['fog | rain | highway | van | bus | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1147.jpg,['fog | rain | highway | van | vehicle | bus | road | car | drive | wet | black'],weather,a passenger bus that is driving on a foggy day,0,0
+Rainy,Rainy\frame1148.jpg,['rain | windshield | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1149.jpg,['fog | rain | windshield | highway | vehicle | train | mountain | road | car | window | drive | travel'],weather,a view of a foggy country side,0,0
+Rainy,Rainy\frame115.jpg,['rain | traffic | highway | vehicle | bus | road | street | car | drive | wet'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1150.jpg,['fog | rain | highway | van | vehicle | road | car | truck | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1151.jpg,['fog | rain | highway | vehicle | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1152.jpg,['fog | rain | highway | vehicle | bus | road | car | truck | drive | travel'],weather,a foggy day on a rainy day,0,0
+Rainy,Rainy\frame1153.jpg,['fog | rain | highway | freeway | road | car | truck | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1154.jpg,['fog | rain | highway | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1155.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1156.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1157.jpg,['fog | rain | windshield | highway | vehicle | mountain | road | car | truck | drive'],weather,a view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1158.jpg,['rain | windshield | highway | vehicle | mountain | road | car | truck | drive'],weather,a view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1159.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame116.jpg,['vehicle | car | tunnel | truck | drive | travel'],weather,a night time view of a tunnel tunnel,0,-1
+Rainy,Rainy\frame1160.jpg,['rain | highway | mountain | road | car | truck | drive | wet'],weather,a view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1161.jpg,['fog | rain | highway | bus | mountain | road | car | drive | travel'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1162.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1163.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1164.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1165.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1166.jpg,['rain | windshield | highway | mountain | road | car | drive | wet'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1167.jpg,['rain | windshield | highway | mountain | road | car | window | snow'],weather,a view of a car windshield during a rainy day,0,0
+Rainy,Rainy\frame1168.jpg,['rain | windshield | highway | vehicle | mountain | road | car | truck | drive'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1169.jpg,['rain | highway | mountain | road | car | snow | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame117.jpg,['light | car | tunnel | truck | drive | travel'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1170.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1171.jpg,['fog | rain | windshield | highway | mountain | road | car | drive | green | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1172.jpg,['traffic light | fog | rain | windshield | highway | mountain | road | car | drive | green | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1173.jpg,['fog | rain | windshield | highway | mountain | road | car | truck | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1174.jpg,['rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1175.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1176.jpg,['fog | rain | windshield | highway | mountain | road | car | truck | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1177.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1178.jpg,['fog | rain | windshield | highway | freeway | vehicle | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1179.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame118.jpg,['picture | car | tunnel | truck | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1180.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1181.jpg,['rain | traffic | highway | vehicle | bus | road | car | truck | drive | travel | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1182.jpg,['rain | windshield | highway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1183.jpg,['rain | windshield | highway | mountain | road | car | drive'],weather,a view of a highway sign on a foggy day,0,0
+Rainy,Rainy\frame1184.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1185.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1186.jpg,['fog | rain | highway | mountain | road | car | snow | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1187.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1188.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1189.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame119.jpg,['vehicle | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,-1
+Rainy,Rainy\frame1190.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1191.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1192.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1193.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1194.jpg,['fog | rain | highway | mountain | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1195.jpg,['rain | windshield | highway | mountain | road | car | truck | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1196.jpg,['rain | windshield | highway | mountain | road | car | truck | drive'],weather,the view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1197.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1198.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1199.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame12.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame120.jpg,['rain | night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,0
+Rainy,Rainy\frame1200.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1201.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy day on a rainy day,0,0
+Rainy,Rainy\frame1202.jpg,['fog | rain | highway | mountain | road | cloud | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1203.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | white | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1204.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1205.jpg,['traffic light | fog | rain | highway | mountain | road | car | drive | green'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1206.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1207.jpg,['fog | rain | windshield | highway | mountain | road | picture | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1208.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1209.jpg,['fog | rain | highway | vehicle | mountain | road | cloud | car | drive'],weather,a view of a foggy mountain side on a rainy day,0,0
+Rainy,Rainy\frame121.jpg,['vehicle | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1210.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1211.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1212.jpg,['fog | rain | highway | freeway | mountain | road | cloud | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1213.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1214.jpg,['rain | traffic | highway | vehicle | road | street | car | truck | drive | wet'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1215.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1216.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1217.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1218.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1219.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame122.jpg,['night | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,-1
+Rainy,Rainy\frame1220.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1221.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1222.jpg,['rain | windshield | highway | road | car | window'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1223.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1224.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1225.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1226.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1227.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1228.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1229.jpg,['rain | windshield | highway | vehicle | mountain | road | car | window'],weather,driving on a rainy day on a rainy day,0,0
+Rainy,Rainy\frame123.jpg,['highway | vehicle | car | tunnel | truck | drive'],weather,a large semi truck driving into a tunnel entrance,0,-1
+Rainy,Rainy\frame1230.jpg,['rain | windshield | highway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1231.jpg,['fog | rain | highway | freeway | road | car | drive | white'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1232.jpg,['fog | rain | highway | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1233.jpg,['fog | rain | highway | freeway | vehicle | suv | road | car | truck | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1234.jpg,['fog | rain | highway | freeway | vehicle | road | car | truck | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1235.jpg,['fog | rain | highway | vehicle | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1236.jpg,['rain | highway | vehicle | road | car | drive | green | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1237.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1238.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1239.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame124.jpg,['night | traffic | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,-1
+Rainy,Rainy\frame1240.jpg,['rain | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1241.jpg,['rain | highway | vehicle | road | car | drive'],weather,a view of a car windshield on a foggy day,0,0
+Rainy,Rainy\frame1242.jpg,['rain | highway | vehicle | mountain | road | car | truck | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1243.jpg,['rain | windshield | highway | car window | mountain | road | car | window'],weather,a view of a car windshield on a foggy day,0,0
+Rainy,Rainy\frame1244.jpg,['fog | rain | highway | vehicle | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1245.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1246.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1247.jpg,['fog | rain | highway | vehicle | road | car | drive | wet'],weather,a view of a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1248.jpg,['rain | windshield | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1249.jpg,['fog | rain | highway | vehicle | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame125.jpg,['car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1250.jpg,['fog | rain | highway | vehicle | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1251.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1252.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1253.jpg,['rain | windshield | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1254.jpg,['fog | rain | windshield | highway | freeway | car window | vehicle | mountain | road | car | window | truck | drive'],weather,a foggy view of a car windshield on a rainy day,0,0
+Rainy,Rainy\frame1255.jpg,['rain | highway | freeway | mountain | road | car | snow | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1256.jpg,['rain | traffic | highway | freeway | vehicle | road | car | lane | snow | drive | travel'],weather,a view of a car's windshield wiper on a foggy day,0,0
+Rainy,Rainy\frame1257.jpg,['rain | traffic | highway | freeway | vehicle | road | car | lane | drive | wet'],weather,a view of a rainy day driving on a foggy day,0,0
+Rainy,Rainy\frame1258.jpg,['rain | traffic | highway | freeway | vehicle | road | car | drive | wet'],weather,a view of a rainy day driving on a foggy day,0,0
+Rainy,Rainy\frame1259.jpg,['rain | bridge | traffic | highway | vehicle | road | street | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame126.jpg,['rain | traffic | highway | vehicle | bus | road | street | car | drive | wet'],weather,a view of a rainy day from a car windshield,0,0
+Rainy,Rainy\frame1260.jpg,['rain | traffic | highway | freeway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1261.jpg,['rain | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1262.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1263.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1264.jpg,['rain | traffic | highway | vehicle | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1265.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1266.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1267.jpg,['rain | traffic | highway | vehicle | road | car | drive | travel | green | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1268.jpg,['rain | traffic | highway | vehicle | road | car | drive | green | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1269.jpg,['rain | traffic | highway | vehicle | road | car | tunnel | drive | travel | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame127.jpg,['rain | night | highway | train | car | tunnel | truck | drive | wet'],weather,a large semi truck driving through a tunnel entrance,0,0
+Rainy,Rainy\frame1270.jpg,['rain | bridge | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1271.jpg,['rain | traffic | highway | vehicle | road | car | tunnel | drive | travel | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1272.jpg,['rain | traffic | highway | vehicle | road | picture | car | tunnel | drive | travel'],weather,a view of a car's windshield wiper on a foggy day,0,0
+Rainy,Rainy\frame1273.jpg,['rain | highway | vehicle | road | picture | car | tunnel | drive | travel'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1274.jpg,['bridge | highway | vehicle | road | car | tunnel | drive'],weather,a view of a highway bridge on a foggy day,0,-1
+Rainy,Rainy\frame1275.jpg,['vehicle | road | car | drive'],weather,a car's windshield wiper wipes on a rainy day,0,0
+Rainy,Rainy\frame1276.jpg,['highway | vehicle | road | car | tunnel | drive | travel'],weather,a view of the tunnel entrance from the inside,0,-1
+Rainy,Rainy\frame1277.jpg,['highway | vehicle | road | car | tunnel | drive | travel'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1278.jpg,['rain | traffic | vehicle | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1279.jpg,['rain | night | traffic | picture | car | tunnel | drive | rainy'],weather,a view of the inside of a subway car,0,0
+Rainy,Rainy\frame128.jpg,['night | train | light | car | tunnel | truck'],weather,a large semi truck driving through a night city,0,-1
+Rainy,Rainy\frame1280.jpg,['rain | night | traffic | highway | picture | car | tunnel | drive | dark'],weather,a night time view of a highway tunnel,0,0
+Rainy,Rainy\frame1281.jpg,['rain | bridge | traffic | highway | vehicle | road | car | lane | drive | travel'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1282.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1283.jpg,['car | tunnel | drive'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1284.jpg,['car | tunnel | drive'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1285.jpg,['rain | traffic | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1286.jpg,['rain | traffic | vehicle | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1287.jpg,['rain | traffic | vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a car tunnel,0,0
+Rainy,Rainy\frame1288.jpg,['rain | traffic | car | tunnel | drive'],weather,a time lapse photo of a tunnel's interior,0,0
+Rainy,Rainy\frame1289.jpg,['rain | traffic | light | car | tunnel | drive | red'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame129.jpg,['night | train | light | track | tunnel | travel'],weather,a commuter train is going through a subway tunnel,0,-1
+Rainy,Rainy\frame1290.jpg,['rain | traffic | light | car | tunnel | drive | wet'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1291.jpg,['rain | traffic | car | tunnel | drive | wet'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1292.jpg,['rain | traffic | highway | vehicle | road | car | lane | drive'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1293.jpg,['rain | traffic | car | tunnel | drive | wet'],weather,a view of a tunnel's interior from the inside,0,0
+Rainy,Rainy\frame1294.jpg,['rain | light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1295.jpg,['traffic | light | car | tunnel | drive'],weather,a view of the inside of a metro tunnel,0,-1
+Rainy,Rainy\frame1296.jpg,['rain | light | car | tunnel | drive | travel | dark | wet'],weather,a view of the inside of a tunnel road,0,0
+Rainy,Rainy\frame1297.jpg,['rain | light | car | tunnel | drive | travel | dark | wet'],weather,a view of the inside of a tunnel entrance,0,0
+Rainy,Rainy\frame1298.jpg,['rain | traffic | highway | vehicle | road | car | tunnel | truck | drive | travel'],weather,a view from inside of a car windshield,0,0
+Rainy,Rainy\frame1299.jpg,['rain | windshield | traffic | highway | vehicle | mountain | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame13.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame130.jpg,['night | highway | car | tunnel | truck | drive'],weather,a large semi truck driving through a night tunnel,0,-1
+Rainy,Rainy\frame1300.jpg,['fog | rain | windshield | highway | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1301.jpg,['traffic light | fog | rain | windshield | highway | road | car | drive | green'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1302.jpg,['fog | rain | traffic | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1303.jpg,['rain | traffic | highway | vehicle | road | car | lane | drive'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1304.jpg,['fog | rain | traffic | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1305.jpg,['fog | rain | traffic | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1306.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1307.jpg,['fog | rain | traffic | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1308.jpg,['fog | rain | traffic | highway | freeway | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1309.jpg,['fog | rain | highway | freeway | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame131.jpg,['rain | night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a night city tunnel,0,0
+Rainy,Rainy\frame1310.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1311.jpg,['fog | rain | highway | freeway | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1312.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1313.jpg,['fog | rain | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1314.jpg,['rain | traffic | highway | vehicle | road | car | lane | drive'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1315.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1316.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1317.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1318.jpg,['fog | rain | highway | freeway | mountain | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1319.jpg,['fog | rain | windshield | highway | freeway | vehicle | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame132.jpg,['highway | car | tunnel | truck | drive | travel'],weather,a semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1320.jpg,['rain | windshield | highway | vehicle | road | car | window | person'],weather,driving on a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1321.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1322.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1323.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1324.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1325.jpg,['rain | traffic | highway | freeway | vehicle | road | car | lane | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1326.jpg,['rain | windshield | highway | vehicle | road | car | window'],weather,driving on a foggy rainy day,0,0
+Rainy,Rainy\frame1327.jpg,['rain | highway | vehicle | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1328.jpg,['fog | rain | highway | vehicle | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1329.jpg,['fog | rain | highway | vehicle | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame133.jpg,['rain | night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,0
+Rainy,Rainy\frame1330.jpg,['fog | rain | highway | vehicle | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1331.jpg,['fog | rain | highway | vehicle | road | car | drive | green | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1332.jpg,['fog | rain | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1333.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1334.jpg,['fog | rain | highway | vehicle | mountain | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1335.jpg,['fog | rain | traffic | highway | freeway | vehicle | mountain | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1336.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame1337.jpg,['rain | traffic | highway | freeway | sign | road | car | lane | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1338.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1339.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame134.jpg,['rain | night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,0
+Rainy,Rainy\frame1340.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1341.jpg,['fog | rain | windshield | highway | mountain | road | car | window'],weather,a view of a car windshield on a rainy day,0,0
+Rainy,Rainy\frame1342.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1343.jpg,['fog | rain | traffic | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1344.jpg,['fog | rain | highway | freeway | bus | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1345.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1346.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1347.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1348.jpg,['rain | traffic | highway | freeway | street sign | sign | road | car | drive'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1349.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame135.jpg,['train | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1350.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1351.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1352.jpg,['rain | windshield | highway | car window | train | road | picture | car | window | dark'],weather,a view of a car windshield through a car windshield,0,0
+Rainy,Rainy\frame1353.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1354.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1355.jpg,['fog | rain | highway | freeway | vehicle | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1356.jpg,['rain | traffic | highway | freeway | vehicle | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1357.jpg,['rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1358.jpg,['rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1359.jpg,['rain | traffic | highway | street sign | sign | road | car | drive'],weather,a view of a two lane highway during a rainy day,0,0
+Rainy,Rainy\frame136.jpg,['night | highway | train | car | tunnel | truck | drive | travel'],weather,a semi truck driving through a night city tunnel,0,-1
+Rainy,Rainy\frame1360.jpg,['traffic light | rain | traffic | highway | road | car | drive | green'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1361.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1362.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1363.jpg,['rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1364.jpg,['rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1365.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1366.jpg,['rain | windshield | highway | freeway | vehicle | road | picture | car | drive | wet'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1367.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1368.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1369.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame137.jpg,['rain | traffic | highway | vehicle | bus | road | car | drive | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1370.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1371.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1372.jpg,['fog | rain | windshield | highway | freeway | vehicle | mountain | road | car | drive'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1373.jpg,['rain | highway | vehicle | road | car | drive'],weather,a car's windshield wiper wipes on a rainy day,0,0
+Rainy,Rainy\frame1374.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1375.jpg,['rain | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1376.jpg,['rain | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's dashboard while driving on a foggy day,0,0
+Rainy,Rainy\frame1377.jpg,['fog | rain | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1378.jpg,['rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1379.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame138.jpg,['night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,-1
+Rainy,Rainy\frame1380.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1381.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1382.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1383.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1384.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1385.jpg,['rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1386.jpg,['night | highway | vehicle | street | car | drive | dark'],weather,a view of a car's dashboard through a windshield wiper,0,-1
+Rainy,Rainy\frame1387.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1388.jpg,['fog | rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1389.jpg,['fog | rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame139.jpg,['night | highway | car | tunnel | truck | drive'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1390.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1391.jpg,['rain | traffic | highway | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1392.jpg,['rain | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1393.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1394.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1395.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1396.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a car's dashboard is shown on a foggy day,0,0
+Rainy,Rainy\frame1397.jpg,['fog | rain | traffic | highway | vehicle | mountain | road | picture | car | drive'],weather,a foggy view of a car windshield on a rainy day,0,0
+Rainy,Rainy\frame1398.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day driving on a country road,0,0
+Rainy,Rainy\frame1399.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame14.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame140.jpg,['night | highway | vehicle | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a night tunnel,0,-1
+Rainy,Rainy\frame1400.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1401.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1402.jpg,['fog | rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1403.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1404.jpg,['fog | rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1405.jpg,['fog | rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1406.jpg,['fog | rain | highway | mountain | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1407.jpg,['fog | rain | highway | freeway | mountain | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1408.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1409.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame141.jpg,['night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel tunnel,0,-1
+Rainy,Rainy\frame1410.jpg,['fog | rain | highway | sign | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1411.jpg,['rain | highway | vehicle | sign | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1412.jpg,['rain | traffic | highway | sign | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1413.jpg,['fog | rain | highway | road | car | drive | wet'],weather,a rainy day on the way,0,0
+Rainy,Rainy\frame1414.jpg,['rain | traffic | highway | vehicle | road | street | car | drive | wet'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1415.jpg,['rain | highway | vehicle | mountain | road | car | drive | wet'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1416.jpg,['rain | highway | vehicle | mountain | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1417.jpg,['fog | rain | traffic | highway | vehicle | mountain | road | car | drive'],weather,a view of a car windshield on a rainy day,0,0
+Rainy,Rainy\frame1418.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1419.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame142.jpg,['night | highway | car | tunnel | truck | drive | travel'],weather,a large semi truck driving through a tunnel entrance,0,-1
+Rainy,Rainy\frame1420.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1421.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1422.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1423.jpg,['rain | windshield | highway | vehicle | road | picture | car | drive'],weather,a view of the inside of a car windshield,0,0
+Rainy,Rainy\frame1424.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1425.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1426.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1427.jpg,['fog | rain | windshield | highway | mountain | road | car | snow | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1428.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1429.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame143.jpg,['night | highway | car | tunnel | truck | drive | travel'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1430.jpg,['rain | windshield | highway | mountain | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1431.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1432.jpg,['traffic light | fog | rain | windshield | traffic | highway | mountain | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1433.jpg,['traffic light | fog | rain | windshield | traffic | highway | vehicle | mountain | light | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1434.jpg,['rain | highway | vehicle | mountain | road | street | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame1435.jpg,['rain | traffic | highway | vehicle | mountain | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1436.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1437.jpg,['rain | highway | vehicle | mountain | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1438.jpg,['rain | windshield | traffic | highway | vehicle | road | car | truck | drive | red'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1439.jpg,['rain | windshield | traffic | highway | vehicle | mountain | road | car | truck | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame144.jpg,['night | traffic | highway | light | car | tunnel | truck | drive | travel'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1440.jpg,['rain | windshield | traffic | highway | vehicle | mountain | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1441.jpg,['rain | windshield | highway | vehicle | mountain | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1442.jpg,['traffic light | rain | windshield | highway | vehicle | mountain | light | road | car | drive | red'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1443.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1444.jpg,['fog | rain | windshield | highway | vehicle | mountain | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1445.jpg,['rain | windshield | highway | mountain | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1446.jpg,['rain | windshield | highway | mountain | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1447.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame1448.jpg,['rain | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1449.jpg,['rain | windshield | highway | road | car | truck | snow | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame145.jpg,['rain | night | traffic | highway | light | car | tunnel | truck | drive | travel'],weather,a night time view of a highway tunnel,0,0
+Rainy,Rainy\frame1450.jpg,['rain | windshield | highway | road | car | snow | drive | wet'],weather,a view of a car's dashboard on a snowy day,0,0
+Rainy,Rainy\frame1451.jpg,['rain | highway | train | mountain | road | car | snow | drive | wet'],weather,a view of a train crossing on a foggy day,0,0
+Rainy,Rainy\frame1452.jpg,['rain | windshield | highway | mountain | road | car | snow | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1453.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a rain storm coming down,0,0
+Rainy,Rainy\frame1454.jpg,['rain | windshield | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1455.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1456.jpg,['rain | traffic | highway | vehicle | road | car | tunnel | drive | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1457.jpg,['rain | traffic | highway | vehicle | road | car | tunnel | drive | red | wet'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1458.jpg,['rain | traffic | highway | vehicle | road | car | tunnel | drive | travel | red | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1459.jpg,['rain | bridge | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame146.jpg,['rain | night | highway | light | car | tunnel | truck | drive | travel'],weather,a night time view of a highway tunnel,0,0
+Rainy,Rainy\frame1460.jpg,['rain | traffic | highway | vehicle | sign | road | car | tunnel | drive | travel | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1461.jpg,['rain | highway | vehicle | road | car | tunnel | drive | travel | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1462.jpg,['rain | highway | road | car | tunnel | drive | travel'],weather,a view of a car's driving through a tunnel entrance,0,0
+Rainy,Rainy\frame1463.jpg,['highway | car | tunnel | drive | travel'],weather,a view of a highway tunnel from the inside,0,-1
+Rainy,Rainy\frame1464.jpg,['bridge | train | car | tunnel | window | black'],weather,a view of the inside of a subway car,0,-1
+Rainy,Rainy\frame1465.jpg,['light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1466.jpg,['rain | light | picture | car | tunnel | drive'],weather,the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1467.jpg,['rain | train | light | picture | car | tunnel | drive | dark | rainy | wet'],weather,a view of a tunnel's interior during a rainy day,0,0
+Rainy,Rainy\frame1468.jpg,['rain | picture | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1469.jpg,['city | train | station | car | subway | tunnel | window'],weather,a view of the inside of a subway car,0,-1
+Rainy,Rainy\frame147.jpg,['rain | night | traffic | highway | light | car | tunnel | truck | drive | travel'],weather,a night time view of a highway tunnel,0,0
+Rainy,Rainy\frame1470.jpg,['rain | windshield | bridge | traffic | highway | freeway | vehicle | road | picture | car | drive'],weather,a view of a rain storm from a car windshield,0,0
+Rainy,Rainy\frame1471.jpg,['car | tunnel | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1472.jpg,['vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1473.jpg,['rain | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1474.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1475.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1476.jpg,['train | picture | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1477.jpg,['vehicle | picture | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1478.jpg,['rain | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1479.jpg,['rain | car | tunnel | drive | travel'],weather,the inside of a subway tunnel,0,0
+Rainy,Rainy\frame148.jpg,['rain | traffic | highway | vehicle | bus | road | street | car | drive | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1480.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1481.jpg,['rain | bridge | traffic | highway | freeway | vehicle | road | overpass | car | drive'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1482.jpg,['rain | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1483.jpg,['rain | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1484.jpg,['train | light | car | tunnel | drive | travel | dark'],weather,the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1485.jpg,['car | tunnel | drive | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1486.jpg,['car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1487.jpg,['car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1488.jpg,['car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1489.jpg,['car | tunnel | drive | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame149.jpg,['night | traffic | highway | light | picture | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1490.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1491.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1492.jpg,['rain | bridge | traffic | highway | vehicle | road | car | drive | travel'],weather,a view of a car's windshield wiper,0,0
+Rainy,Rainy\frame1493.jpg,['car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1494.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1495.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1496.jpg,['train | light | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1497.jpg,['light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1498.jpg,['light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1499.jpg,['train | light | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame15.jpg,['rain | traffic | highway | decker bus | bus | road | street | car | drive | travel | wet'],weather,a passenger bus that is driving on a rainy day,0,0
+Rainy,Rainy\frame150.jpg,['night | highway | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1500.jpg,['light | car | tunnel | drive | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1501.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1502.jpg,['car | tunnel | drive | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1503.jpg,['rain | bridge | traffic | highway | vehicle | road | car | drive | travel | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1504.jpg,['train | car | tunnel | drive | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1505.jpg,['car | tunnel | drive | white'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1506.jpg,['vehicle | car | tunnel | drive | white'],weather,a slow motion shot of a subway tunnel,0,-1
+Rainy,Rainy\frame1507.jpg,['van | vehicle | car | tunnel | drive | travel | white'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1508.jpg,['vehicle | car | tunnel | drive | travel | white'],weather,driving through a tunnel tunnel on a rainy day,0,0
+Rainy,Rainy\frame1509.jpg,['rain | van | vehicle | car | tunnel | drive | white'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame151.jpg,['night | traffic | highway | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1510.jpg,['van | vehicle | car | tunnel | drive | travel | white'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1511.jpg,['van | vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1512.jpg,['van | vehicle | car | tunnel | drive | travel | white'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1513.jpg,['vehicle | car | tunnel | drive | travel | white'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1514.jpg,['rain | traffic | highway | vehicle | road | picture | car | drive | travel'],weather,a view of a car's dashboard through a rain storm,0,0
+Rainy,Rainy\frame1515.jpg,['vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1516.jpg,['vehicle | car | tunnel | drive | travel | dark | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1517.jpg,['vehicle | light | car | tunnel | drive | travel | dark'],weather,a night shot of a subway tunnel,0,-1
+Rainy,Rainy\frame1518.jpg,['vehicle | car | tunnel | drive | travel | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1519.jpg,['vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame152.jpg,['night | traffic | highway | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1520.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1521.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1522.jpg,['car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1523.jpg,['car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1524.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1525.jpg,['rain | traffic | highway | vehicle | road | car | drive | red | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1526.jpg,['car | tunnel | drive | dark'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1527.jpg,['car | tunnel | drive'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1528.jpg,['car | tunnel | drive | white'],weather,a view of the inside of a car tunnel,0,-1
+Rainy,Rainy\frame1529.jpg,['car | tunnel | drive'],weather,a view of the inside of a car tunnel,0,-1
+Rainy,Rainy\frame153.jpg,['night | traffic | highway | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1530.jpg,['vehicle | car | tunnel | drive | travel | white'],weather,a night time shot of a tunnel's interior,0,-1
+Rainy,Rainy\frame1531.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1532.jpg,['car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1533.jpg,['car | tunnel | drive | travel | dark | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1534.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1535.jpg,['car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1536.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame1537.jpg,['car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1538.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1539.jpg,['car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame154.jpg,['night | traffic | highway | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1540.jpg,['picture | car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1541.jpg,['train | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1542.jpg,['vehicle | light | car | tunnel | drive | travel | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1543.jpg,['light | car | tunnel | drive | dark | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1544.jpg,['vehicle | train | light | car | tunnel | drive | travel | dark | red'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1545.jpg,['light | car | tunnel | drive | travel | dark | red'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1546.jpg,['light | car | tunnel | drive | dark | red'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1547.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day driving on a country road,0,0
+Rainy,Rainy\frame1548.jpg,['night | train | light | car | tunnel | truck | drive | travel | dark | red'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1549.jpg,['night | highway | van | vehicle | car | tunnel | truck | drive | travel | white'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame155.jpg,['night | traffic | highway | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1550.jpg,['highway | vehicle | car | tunnel | truck | drive | travel'],weather,a night time view of a subway tunnel,0,-1
+Rainy,Rainy\frame1551.jpg,['van | vehicle | train | car | tunnel | truck | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1552.jpg,['vehicle | car | tunnel | truck | drive | travel | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1553.jpg,['van | vehicle | train | car | tunnel | drive | travel | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1554.jpg,['vehicle | car | tunnel | drive | travel | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1555.jpg,['vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1556.jpg,['vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1557.jpg,['vehicle | car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1558.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame1559.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame156.jpg,['night | traffic | highway | vehicle | light | car | tunnel | truck | drive | white'],weather,a night time view of a night time traffic,0,-1
+Rainy,Rainy\frame1560.jpg,['vehicle | light | car | tunnel | drive | travel | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1561.jpg,['vehicle | light | car | tunnel | drive | travel | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1562.jpg,['vehicle | car | tunnel | drive | travel | white'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1563.jpg,['vehicle | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1564.jpg,['rain | vehicle | light | car | tunnel | drive | travel | dark | wet'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1565.jpg,['rain | highway | light | car | tunnel | drive | travel | dark | wet'],weather,a view of the inside of a tunnel road,0,0
+Rainy,Rainy\frame1566.jpg,['rain | highway | light | road | car | tunnel | drive | travel | wet'],weather,a view of the inside of a tunnel entrance,0,0
+Rainy,Rainy\frame1567.jpg,['rain | traffic | highway | police car | vehicle | road | car | tunnel | drive'],weather,a view of the inside of a car's side view mirror,0,0
+Rainy,Rainy\frame1568.jpg,['rain | traffic | highway | vehicle | road | car | drive | travel'],weather,a view of a two lane highway on a foggy day,0,0
+Rainy,Rainy\frame1569.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame157.jpg,['night | traffic | highway | vehicle | car | tunnel | truck | drive | white'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1570.jpg,['rain | traffic | highway | vehicle | road | car | drive | travel'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1571.jpg,['fog | rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1572.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1573.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1574.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1575.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1576.jpg,['fog | rain | windshield | highway | sign | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1577.jpg,['rain | night | highway | road | car | drive | dark'],weather,driving in the dark on a rainy day,0,0
+Rainy,Rainy\frame1578.jpg,['fog | rain | highway | sign | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1579.jpg,['fog | rain | highway | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame158.jpg,['night | traffic | highway | van | vehicle | car | tunnel | truck | drive | white'],weather,a night time view of a highway tunnel,0,-1
+Rainy,Rainy\frame1580.jpg,['fog | rain | highway | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1581.jpg,['rain | bridge | traffic | highway | vehicle | road | car | drive | travel'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1582.jpg,['fog | rain | highway | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1583.jpg,['rain | highway | road | car | truck | drive | white | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1584.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1585.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1586.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1587.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1588.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,the view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1589.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame159.jpg,['rain | traffic | highway | vehicle | bus | road | car | lane | drive | wet'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1590.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1591.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1592.jpg,['rain | bridge | traffic | highway | vehicle | bus | road | car | drive | travel | wet'],weather,a view of a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1593.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1594.jpg,['rain | windshield | highway | vehicle | road | car | drive | green'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1595.jpg,['traffic light | rain | windshield | highway | vehicle | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1596.jpg,['traffic light | rain | windshield | highway | road | car | drive | green | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1597.jpg,['rain | highway | freeway | road | car | snow | drive'],weather,a view of a car's dashboard on a snowy day,0,0
+Rainy,Rainy\frame1598.jpg,['rain | highway | freeway | sign | road | car | drive'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1599.jpg,['rain | traffic | highway | sign | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame16.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame160.jpg,['traffic | highway | van | vehicle | light | car | tunnel | drive | dark | white'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1600.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1601.jpg,['rain | windshield | traffic | highway | sign | road | car | drive'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1602.jpg,['rain | windshield | highway | vehicle | road | car | window | drive'],weather,a view of a car's dashboard through a foggy windshield wiper,0,0
+Rainy,Rainy\frame1603.jpg,['rain | bridge | traffic | highway | vehicle | bus | road | car | truck | drive | travel | red'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1604.jpg,['rain | highway | road | car'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1605.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1606.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car windshield on a foggy day,0,0
+Rainy,Rainy\frame1607.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car windshield on a foggy day,0,0
+Rainy,Rainy\frame1608.jpg,['rain | windshield | highway | car window | road | car | window | tree | rainy | wet'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1609.jpg,['rain | windshield | highway | car window | road | car | window'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame161.jpg,['traffic | van | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a view of the inside of a tunnel road,0,-1
+Rainy,Rainy\frame1610.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1611.jpg,['fog | rain | windshield | highway | road | car'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1612.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1613.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1614.jpg,['rain | bridge | traffic | highway | vehicle | bus | road | car | truck | drive | travel | red | wet'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1615.jpg,['rain | windshield | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1616.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1617.jpg,['fog | rain | highway | road | car | drive | white | wet'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1618.jpg,['rain | highway | road | car | drive | green | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1619.jpg,['traffic light | rain | highway | road | car | drive | green | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame162.jpg,['traffic | highway | van | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a view of the inside of a tunnel entrance,0,-1
+Rainy,Rainy\frame1620.jpg,['traffic light | rain | highway | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1621.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1622.jpg,['rain | night | highway | road | car | drive | travel | dark'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1623.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1624.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1625.jpg,['rain | traffic | highway | vehicle | bus | road | car | drive | wet'],weather,a view of a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1626.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1627.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1628.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1629.jpg,['fog | rain | windshield | highway | road | car | snow | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame163.jpg,['van | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a view of the inside of a tunnel entrance,0,-1
+Rainy,Rainy\frame1630.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1631.jpg,['fog | rain | windshield | highway | road | car | snow | drive'],weather,a foggy drive on a snowy day,0,0
+Rainy,Rainy\frame1632.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1633.jpg,['rain | windshield | highway | road | car | snow | drive'],weather,a view of a foggy driving on a snowy day,0,0
+Rainy,Rainy\frame1634.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1635.jpg,['fog | rain | windshield | highway | road | car | snow | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1636.jpg,['rain | traffic | highway | vehicle | road | street | car | truck | drive | travel | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1637.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1638.jpg,['fog | rain | highway | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1639.jpg,['fog | rain | highway | road | car | drive | white'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame164.jpg,['van | vehicle | light | car | tunnel | truck | drive | travel | dark'],weather,a view of the inside of a tunnel entrance,0,-1
+Rainy,Rainy\frame1640.jpg,['rain | highway | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1641.jpg,['rain | highway | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1642.jpg,['rain | highway | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1643.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1644.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1645.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1646.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1647.jpg,['rain | traffic | highway | vehicle | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1648.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1649.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame165.jpg,['highway | vehicle | light | road | car | tunnel | truck | drive | travel | dark | yellow'],weather,a view of the inside of a tunnel entrance,0,-1
+Rainy,Rainy\frame1650.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1651.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1652.jpg,['traffic light | fog | rain | windshield | highway | light | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1653.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1654.jpg,['rain | windshield | highway | vehicle | road | car | window'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1655.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1656.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1657.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1658.jpg,['rain | windshield | car window | vehicle | road | car | window | drive | wet'],weather,a view of a car windshield through a windshield wiper,0,0
+Rainy,Rainy\frame1659.jpg,['fog | rain | windshield | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame166.jpg,['rain | highway | vehicle | light | road | car | tunnel | truck | drive | travel | dark | wet'],weather,a view of the inside of a tunnel entrance,0,0
+Rainy,Rainy\frame1660.jpg,['rain | windshield | highway | freeway | vehicle | road | picture | car | drive'],weather,a view of a car's dashboard through a foggy windshield wiper,0,0
+Rainy,Rainy\frame1661.jpg,['fog | rain | windshield | highway | freeway | vehicle | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1662.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1663.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1664.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1665.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1666.jpg,['fog | rain | highway | vehicle | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1667.jpg,['fog | rain | windshield | highway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1668.jpg,['rain | highway | freeway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1669.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame167.jpg,['rain | highway | vehicle | light | road | street | car | tunnel | truck | drive | travel | dark'],weather,a view of the inside of a tunnel entrance,0,0
+Rainy,Rainy\frame1670.jpg,['rain | windshield | car window | road | water | street | car | window | drive'],weather,a view of a car windshield on a rainy day,0,0
+Rainy,Rainy\frame1671.jpg,['rain | highway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1672.jpg,['rain | highway | freeway | vehicle | road | car | drive | travel'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1673.jpg,['rain | windshield | highway | freeway | road | car | drive'],weather,a view of a rainy day driving on a foggy day,0,0
+Rainy,Rainy\frame1674.jpg,['rain | windshield | highway | freeway | vehicle | sign | road | car | drive'],weather,a view of a car's windshield wiper on a rainy day,0,0
+Rainy,Rainy\frame1675.jpg,['rain | windshield | traffic | highway | freeway | vehicle | sign | road | car | drive'],weather,a view of a highway sign on a foggy day,0,0
+Rainy,Rainy\frame1676.jpg,['rain | highway | vehicle | train | road | car | tunnel | drive | travel'],weather,a view of a train crossing on a foggy day,0,0
+Rainy,Rainy\frame1677.jpg,['rain | highway | vehicle | road | car | tunnel | drive'],weather,a view of a car crash on a foggy day,0,0
+Rainy,Rainy\frame1678.jpg,['highway | vehicle | train | road | car | tunnel | smoke | drive | travel'],weather,a view of a car's front end going down a country road,0,-1
+Rainy,Rainy\frame1679.jpg,['highway | vehicle | mountain | road | picture | car | tunnel | drive | travel'],weather,a view of a highway tunnel during the day,0,-1
+Rainy,Rainy\frame168.jpg,['rain | highway | vehicle | road | street | car | truck | drive | travel | wet'],weather,a view of a two lane highway on a rainy day,0,0
+Rainy,Rainy\frame1680.jpg,['highway | road | car | tunnel | drive'],weather,a view of a highway tunnel from the inside,0,-1
+Rainy,Rainy\frame1681.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1682.jpg,['rain | highway | mountain | road | car | tunnel | drive'],weather,a view of a tunnel's interior from the inside,0,0
+Rainy,Rainy\frame1683.jpg,['rain | highway | road | car | tunnel'],weather,a view of a tunnel's inside during the day,0,0
+Rainy,Rainy\frame1684.jpg,['road | car | tunnel'],weather,a view of a tunnel's interior from the inside,0,-1
+Rainy,Rainy\frame1685.jpg,['light | road | car | tunnel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1686.jpg,['rain | night | highway | light | car | tunnel | drive | dark'],weather,a night time view of a highway tunnel,0,0
+Rainy,Rainy\frame1687.jpg,['train | light | picture | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1688.jpg,['rain | light | car | tunnel | drive'],weather,a view of a tunnel's interior from the inside,0,0
+Rainy,Rainy\frame1689.jpg,['car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame169.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1690.jpg,['train | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1691.jpg,['train | picture | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1692.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1693.jpg,['mountain | light | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1694.jpg,['train | picture | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1695.jpg,['car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1696.jpg,['light | picture | car | tunnel | truck | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1697.jpg,['rain | train | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1698.jpg,['train | light | picture | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1699.jpg,['rain | train | light | picture | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame17.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame170.jpg,['rain | traffic | highway | vehicle | bus | road | car | lane | drive | wet'],weather,a view of a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1700.jpg,['light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1701.jpg,['light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1702.jpg,['train | light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1703.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1704.jpg,['train | light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1705.jpg,['train | light | car | tunnel | drive | travel'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1706.jpg,['rain | train | light | car | tunnel | drive'],weather,a view of the inside of a subway tunnel,0,0
+Rainy,Rainy\frame1707.jpg,['light | car | tunnel | drive | long'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1708.jpg,['light | car | tunnel | drive | dark'],weather,a view of the inside of a subway tunnel,0,-1
+Rainy,Rainy\frame1709.jpg,['light | car | tunnel | drive | travel | dark'],weather,a view of the inside of a metro tunnel,0,-1
+Rainy,Rainy\frame171.jpg,['rain | windshield | highway | car window | road | car | window | tree'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1710.jpg,['train | light | car | tunnel | drive | travel | dark'],weather,a view of the inside of a metro tunnel,0,-1
+Rainy,Rainy\frame1711.jpg,['highway | light | car | tunnel | drive | travel | dark'],weather,a view of the inside of a tunnel entrance,0,-1
+Rainy,Rainy\frame1712.jpg,['rain | highway | vehicle | light | road | street | car | tunnel | truck | drive'],weather,a view from inside of a car's side view mirror,0,0
+Rainy,Rainy\frame1713.jpg,['rain | windshield | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1714.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1715.jpg,['traffic light | rain | windshield | highway | street light | vehicle | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1716.jpg,['rain | windshield | highway | road | car | drive | green | wet'],weather,a view of a driving on a foggy day,0,0
+Rainy,Rainy\frame1717.jpg,['rain | windshield | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1718.jpg,['rain | windshield | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1719.jpg,['rain | windshield | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame172.jpg,['rain | highway | car window | road | car | window | smoke | steam'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1720.jpg,['rain | windshield | highway | vehicle | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1721.jpg,['rain | windshield | highway | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1722.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1723.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1724.jpg,['rain | windshield | traffic | highway | freeway | road | car | window | drive'],weather,a view of a car's dashboard through a foggy windshield wiper,0,0
+Rainy,Rainy\frame1725.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1726.jpg,['rain | highway | road | car | drive | wet'],weather,a car's rear view of driving on a rainy day,0,0
+Rainy,Rainy\frame1727.jpg,['rain | highway | vehicle | road | car | lane | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1728.jpg,['rain | traffic | highway | road | car | lane | drive | red | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1729.jpg,['rain | windshield | highway | freeway | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame173.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1730.jpg,['rain | windshield | highway | freeway | road | car | drive | travel | wet'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1731.jpg,['rain | windshield | highway | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1732.jpg,['rain | windshield | highway | vehicle | road | car | drive | travel | red | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1733.jpg,['traffic light | rain | windshield | highway | road | car | drive | red | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1734.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1735.jpg,['rain | windshield | highway | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1736.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1737.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1738.jpg,['rain | windshield | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1739.jpg,['traffic light | rain | windshield | highway | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame174.jpg,['rain | windshield | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1740.jpg,['traffic light | rain | windshield | highway | road | car | drive | white | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1741.jpg,['traffic light | rain | windshield | highway | vehicle | light | road | car | drive | green | white | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1742.jpg,['rain | highway | road | car | drive | white | wet'],weather,a rainy day driving on a rainy day,0,0
+Rainy,Rainy\frame1743.jpg,['rain | traffic | highway | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1744.jpg,['rain | highway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1745.jpg,['rain | windshield | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard while driving on a rainy day,0,0
+Rainy,Rainy\frame1746.jpg,['rain | highway | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1747.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1748.jpg,['rain | traffic | highway | road | car | drive | white | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1749.jpg,['fog | rain | highway | road | car | drive | white'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame175.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1750.jpg,['rain | highway | vehicle | road | car | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1751.jpg,['rain | windshield | highway | vehicle | road | car | window | drive'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1752.jpg,['rain | windshield | highway | vehicle | road | car | drive | white'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1753.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1754.jpg,['rain | traffic | highway | road | car | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1755.jpg,['rain | traffic | highway | road | car | truck | drive | white'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1756.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1757.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1758.jpg,['rain | traffic | highway | vehicle | road | street | car | drive | wet'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1759.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame176.jpg,['rain | windshield | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1760.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1761.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a rainy day driving on a foggy day,0,0
+Rainy,Rainy\frame1762.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a rainy day on a country road,0,0
+Rainy,Rainy\frame1763.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1764.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a foggy car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1765.jpg,['fog | rain | traffic | highway | freeway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1766.jpg,['fog | rain | traffic | highway | freeway | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1767.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1768.jpg,['traffic light | fog | rain | traffic | highway | road | car | drive | green | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1769.jpg,['rain | windshield | traffic | highway | vehicle | road | street | car | window | drive | wet'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame177.jpg,['rain | windshield | traffic | highway | freeway | vehicle | sign | road | car | drive'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1770.jpg,['traffic light | rain | traffic | highway | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1771.jpg,['rain | traffic | highway | bus | road | car | drive | travel | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1772.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1773.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1774.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1775.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1776.jpg,['fog | rain | windshield | traffic | highway | road | car | drive | travel | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1777.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1778.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1779.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame178.jpg,['rain | traffic | highway | vehicle | sign | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1780.jpg,['rain | traffic | highway | vehicle | road | car | lane | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1781.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1782.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1783.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1784.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1785.jpg,['fog | rain | windshield | highway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1786.jpg,['fog | rain | windshield | highway | mountain | road | car'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1787.jpg,['fog | rain | highway | mountain | road | car'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1788.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1789.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame179.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1790.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1791.jpg,['rain | windshield | highway | road | car | window'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1792.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1793.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1794.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1795.jpg,['fog | rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1796.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1797.jpg,['rain | windshield | highway | road | car | window'],weather,a view of a car windshield on a rainy day,0,0
+Rainy,Rainy\frame1798.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1799.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame18.jpg,['fog | rain | highway | mountain | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame180.jpg,['rain | windshield | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1800.jpg,['fog | rain | highway | mountain | road | car | drive | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1801.jpg,['traffic light | fog | rain | highway | mountain | road | car | drive | green | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1802.jpg,['traffic light | fog | rain | highway | freeway | mountain | light | road | car | drive | green | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1803.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1804.jpg,['fog | rain | windshield | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1805.jpg,['fog | rain | windshield | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1806.jpg,['fog | rain | windshield | highway | freeway | mountain | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1807.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1808.jpg,['fog | rain | highway | freeway | mountain | sign | road | car | drive'],weather,a view of a foggy highway scene on a rainy day,0,0
+Rainy,Rainy\frame1809.jpg,['fog | rain | highway | freeway | mountain | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame181.jpg,['rain | traffic | highway | vehicle | road | car | lane | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1810.jpg,['fog | rain | windshield | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1811.jpg,['fog | rain | traffic | highway | vehicle | road | car | window | drive'],weather,a view of a car windshield through a foggy car windshield,0,0
+Rainy,Rainy\frame1812.jpg,['rain | traffic | highway | road | car | drive'],weather,a car's dashboard is shown on a foggy day,0,0
+Rainy,Rainy\frame1813.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1814.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1815.jpg,['rain | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1816.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1817.jpg,['rain | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1818.jpg,['rain | highway | freeway | road | car | snow | drive'],weather,a view of a foggy driving on a snowy day,0,0
+Rainy,Rainy\frame1819.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame182.jpg,['rain | windshield | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1820.jpg,['rain | highway | road | car | drive | travel'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1821.jpg,['traffic light | fog | rain | highway | road | car | drive | green'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1822.jpg,['traffic light | rain | windshield | highway | green | street light | light | road | street | car | green'],weather,a foggy view of a stoplight on a rainy day,0,0
+Rainy,Rainy\frame1823.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1824.jpg,['fog | rain | highway | freeway | road | car | truck | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1825.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1826.jpg,['fog | rain | highway | freeway | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1827.jpg,['fog | rain | highway | freeway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1828.jpg,['fog | rain | highway | freeway | road | car | truck | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1829.jpg,['fog | rain | highway | freeway | road | car | truck | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame183.jpg,['rain | highway | vehicle | road | car | truck | drive | travel | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1830.jpg,['fog | rain | traffic | highway | freeway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1831.jpg,['fog | rain | windshield | highway | road | car'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1832.jpg,['fog | rain | windshield | highway | road | car'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1833.jpg,['fog | rain | windshield | highway | road | car | truck | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1834.jpg,['fog | rain | windshield | highway | road | car'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1835.jpg,['rain | windshield | traffic | highway | vehicle | car | lane | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1836.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1837.jpg,['rain | highway | freeway | vehicle | road | car | lane | truck'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1838.jpg,['rain | traffic | highway | road | car | lane | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1839.jpg,['rain | traffic | highway | road | car | lane | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame184.jpg,['rain | windshield | highway | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1840.jpg,['rain | traffic | highway | road | car | lane | truck | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1841.jpg,['rain | traffic | highway | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1842.jpg,['rain | windshield | highway | vehicle | road | car'],weather,a view of a car's dashboard during a rainy day,0,0
+Rainy,Rainy\frame1843.jpg,['rain | windshield | highway | vehicle | road | car | wet'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1844.jpg,['rain | windshield | traffic | highway | vehicle | road | car | truck | drive | travel | wet'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1845.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a two lane highway during a foggy day,0,0
+Rainy,Rainy\frame1846.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1847.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1848.jpg,['fog | rain | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1849.jpg,['rain | windshield | traffic | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame185.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1850.jpg,['rain | windshield | highway | vehicle | road | car | drive'],weather,a view of a car's dashboard during a rain storm,0,0
+Rainy,Rainy\frame1851.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1852.jpg,['rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1853.jpg,['rain | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1854.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1855.jpg,['rain | windshield | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1856.jpg,['rain | windshield | night | highway | vehicle | light | road | car | drive | dark | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1857.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1858.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1859.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame186.jpg,['traffic light | rain | highway | intersection | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1860.jpg,['traffic light | rain | windshield | highway | road | car | drive | green | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1861.jpg,['traffic light | rain | windshield | highway | road | car | drive | green | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1862.jpg,['rain | windshield | highway | sign | road | car | drive | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1863.jpg,['rain | windshield | highway | vehicle | sign | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1864.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1865.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1866.jpg,['fog | rain | highway | road | car | drive'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1867.jpg,['fog | rain | highway | road | car | drive'],weather,a view of a car's dashboard during a foggy day,0,0
+Rainy,Rainy\frame1868.jpg,['fog | rain | highway | road | car | drive'],weather,a foggy drive on a rainy day,0,0
+Rainy,Rainy\frame1869.jpg,['rain | traffic | highway | vehicle | road | street | car | lane | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame187.jpg,['traffic light | rain | windshield | highway | intersection | road | car | truck | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1870.jpg,['rain | highway | road | car | drive | wet'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1871.jpg,['fog | rain | highway | road | car | drive | wet'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1872.jpg,['rain | highway | road | car | drive | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1873.jpg,['fog | rain | traffic | highway | road | car | drive | wet'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame1874.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,driving on a rainy day on a foggy day,0,0
+Rainy,Rainy\frame1875.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1876.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1877.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1878.jpg,['fog | rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1879.jpg,['fog | rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame188.jpg,['rain | windshield | highway | vehicle | road | car | truck | drive | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1880.jpg,['rain | traffic | highway | vehicle | road | car | drive | wet'],weather,a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1881.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1882.jpg,['rain | traffic | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1883.jpg,['rain | traffic | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1884.jpg,['rain | windshield | traffic | highway | road | car | drive'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1885.jpg,['fog | rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1886.jpg,['fog | rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1887.jpg,['rain | windshield | highway | road | car | drive | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1888.jpg,['rain | windshield | highway | road | car | window'],weather,driving on a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1889.jpg,['fog | rain | highway | road | car | drive | wet'],weather,driving on a foggy country road on a rainy day,0,0
+Rainy,Rainy\frame189.jpg,['rain | windshield | highway | road | car | drive'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1890.jpg,['fog | rain | highway | road | car | drive | white | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1891.jpg,['rain | traffic | highway | vehicle | road | car | lane | drive'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1892.jpg,['rain | traffic | highway | vehicle | road | car | truck | drive | wet'],weather,a rainy day on a rainy day,0,0
+Rainy,Rainy\frame1893.jpg,['rain | highway | road | car | drive | red | white | wet'],weather,a view of a car's dashboard on a foggy day,0,0
+Rainy,Rainy\frame1894.jpg,['rain | highway | vehicle | road | car | drive | red | white | wet'],weather,a view of a foggy driving on a rainy day,0,0
+Rainy,Rainy\frame1895.jpg,['rain | windshield | highway | vehicle | road | picture | car | window | wet'],weather,a view of a car's dashboard through a windshield wiper,0,0
+Rainy,Rainy\frame1896.jpg,['rain | windshield | highway | vehicle | road | car | drive | red'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1897.jpg,['fog | rain | highway | vehicle | road | car | drive | red | white | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1898.jpg,['traffic light | rain | highway | vehicle | light | road | car | drive | red | wet'],weather,a view of a car's dashboard on a rainy day,0,0
+Rainy,Rainy\frame1899.jpg,['traffic light | rain | highway | light | road | car | drive | red | wet'],weather,a view of a car's dashboard on a foggy day,0,0

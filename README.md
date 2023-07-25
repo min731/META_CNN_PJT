@@ -66,7 +66,7 @@
 ### ✔️ 데이터 세부 사항
 
 총 데이터 갯수 : 30000개 (AI-Hub 10000개 + Youtube 도로 주행 20000개)<br>
-클래스 : Normal(맑음), Rainy(빗길), Snowy(눈길) 3개 클래
+클래스 : Normal(맑음), Rainy(빗길), Snowy(눈길) 3개 클래스
 
 # 💡 주요 내용
 
@@ -74,41 +74,43 @@
 
 1. 통합 모빌리티 서비스 (Mobility as a Service)의 확대
 
-참고한 NIPA의 2023년 ICT 기술 동향 보고에서 통합 모빌리티 서비스, 자율주행차를 기반으로 이제는 상업적인 서비스가 확대될 것이다 라고 언급했습니다. 예를 들어, 무인택시나 자율주행셔틀,무인 트럭 등이 예시입니다.
+참고한 NIPA의 2023년 ICT 기술 동향 보고에서 통합 모빌리티 서비스, 자율주행차를 기반으로 상업적인 서비스가 확대될 것이다 라고 언급했습니다. 무인택시나 자율주행셔틀,무인 트럭 등이 예시입니다.
 이 중 자율주행셔틀의 경우 현재에도 청계천,청와대 일대를 운영중입니다. 이 자율주행셔틀의 특징 중 한가지는 Level3 자율주행시스템으로 평시에는 시스템이 운전하다가 유사시에 운전자의 개입이 필요할 때에만 시스템이 
 요청할 때만 대기하고 있던 운전자가 조작하는 구조입니다. 비운전 상황에서 운전자가 안전에 관련한 요소들을 모니터링할 수 있는 시스템이 필요하지 않을까라는 생각에서 도로 노면 분류 모듈 개발에 아이디어를 얻었습니다.
 
-3. 차량 대 인프라 통신 (Vehicle for Infra)의 확대  <br>
-참고한 보고서에 차량대인프라통신 기술이 확대될 것이라고 언급하였습니다. 먼저 차량대인프라통신은 인근 도로를 주행하는 차량들끼리 수집한 정보들을 공유하면서 서로 안전하게 운행할 수 있게끔 도와주는 기술을 말합니다. 광역버스, 고속버스처럼 주기적으로 왕복하는 차량에 카메라를 달아서 도로 구간별로 실시간 노면 상태 정보를 수집할 수 있다면 카카오맵과 같은 지도상에 어느 구간이 빙결되어 있는지 표시되어 여행중 안전에 유의할 수 있게 도와주는 서비스로 확장될 수 있습니다.
+2. 차량 대 인프라 통신 (Vehicle for Infra)기술의 전망성  <br>
+또한 참고한 보고서에 따르면 차량대인프라통신 기술이 확대될 것이라고 언급하였습니다. 차량대인프라통신은 인근 도로를 주행하는 차량들끼리 수집한 정보들을 공유하면서 서로 안전하게 운행할 수 있게끔 도와주는 기술을 말합니다. 만약 광역버스, 고속버스처럼 주기적으로 왕복하는 차량에 카메라를 달아서 도로 구간별로 실시간 노면 상태 정보를 수집할 수 있다면 카카오맵과 같은 지도상에 어느 구간이 빙결되어 있는지 표시되어 여행 중 안전에 유의할 수 있게 도와주는 서비스로 확장될 수 있습니다.
 
-### ✔️ CNN 
+### ✔️ 데이터 전처리 
 
-1. 데이터 전처리<br>
-   (1) 신차 / 중고차 분리 : 주행거리 < 200km 의 신차 데이터 drop
-   (2) 이상치 데이터 제거 : 주행거리 >= 250만km (최댓값) 데이터 1개 관측/제거
-   (3) 중복 Feature 통합 : get_dummies화된 연료 유형 통합
-   (4) 불필요한 컬럼 제거 : 'ID'(데이터 고유 키값) , 'City','Area' : 모두 폴란드 지역/도시
-   (5) 문자형 데이터 변환 : '브랜드','차량모델명','판매도시','판매구역' Label Encoding
-   (6) (선택사항) MinMaxScaling : '연도','차량모델출시년도' MinMaxScaler 적용
-2. 학습 결과 (MAE) <br>
-   (1) LightGBM : 6.8398
-   (2) RandomForest : 6.3714 (K-fold,cv=5,avg값 기준)
-   (3) XGBoost : 6.4092
-   (4) LinearRegression : 11.95
-   (5) Lasso/LassoCV : 13.44 (alpha=1)
+(1) AI-Hub, Yotube 영상 데이터 수집
+(2) 영상 데이터 frame 단위 (20 frame 간격) 분할
+(3) Pytorch Transform.Lambda() 활용 도로 노면 중심으로 Crop (Horizontal Crop)
 
-    💡MAE 기준 가장 낮은 RandomForest 의 Feature_importances : '생상년도','CC','주행거리','차량출시년도'
+### ✔️ CNN 모델 학습 및 Accuaracy
+
+(1) AlexNet (optim = Adam, lr=1e-4, epoch = 1(Early Stop)) , Accuracy = 0.9997 
+(2) ResNet34 (optim = Adam, lr=1e-4, epochs = 2(Early Stop)) , Accuracy = 0.9983
+(3) VGG16 (optim = Adam, lr=1e-4, epoch = 1(Early Stop)) , Accuracy = 0.9800
+
+### ✔️ Tag2Text 모델 Accuaracy
+
+(1) Pretrained된 Tag2Text 모델 (Fine-Tunning 진행X)
+(2) 평가 기준 : 이미지에 대한 묘사된 Caption 안의 'rainy' or 'snowy' 등의 단어 검출 시 해당 클래스로 분류
+(3) Accuracy = 0.8696
+
+💡Vision-Language Pretraining(VLP) 생성 모델의 이미지 분류 가능성 확인
 
 ### ✔️ 결과
 
-1. 이번 수입 중고차 가격 예측 프로젝트에서 MAE 기준 가장 최적화된 모델은 Optuna(AutoML)의 XGBoost 모델이고 '생산년도','주행거리','배기량','차량모델' 순으로 가격에 영향을 미쳤습니다.
-2. 금리,나라별 가격,업체(딜러) 등을 독립변수로 추가할 수 있다면 더욱 정확한 예측 가능합니다.
-3. 해당 모델/서비스를 통해 중고차 구매차 및 판매자들에게 여 중고치 시장의 활성화를 도모할 수 있습니다.
+1. CNN 모델 중에서는 ResNet34이 테스트 데이터 6000개 기준 18개만 틀린 Accuaracy = 0.9997로 가장 높은 정확도를 보였습니다. 
+2. 단, 실전 성능 최적화를 위해 터널/도심/야간 주행이 포함된 데이터셋이 필요합니다.
+3. Accuracy = 0.8696를 보인 Pretrained Tag2Text와 같은 생성 모델이 머지않은 미래에 CNN을 대체할 수도 있다고 생각합니다. 
 
 # 🛠 기술 스택
 
 ### ▪ 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=e-badge&logo=python&logoColor=white">
 
 ### ▪ 주요 라이브러리
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">

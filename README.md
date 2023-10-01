@@ -2,6 +2,8 @@
 
 ### ✔️ 기상 상황에 따른 도로 노면 분류 프로젝트 (메티버스 아카데미 2기 AI반 CNN 개인 프로젝트)
 
+![image](https://github.com/min731/META_CNN_PJT/assets/115389344/4ca9f8ec-bd46-4914-a166-3d2a48a484fa)
+
 # 📃 프로젝트 소개
 
 ### ✔️ CNN(AlexNet, ResNet34, VGG16)과 Tag2Text 모델을 활용한 기상 상황에 따른 도로 노면 분류 프로젝트입니다.  
